@@ -16,7 +16,8 @@ two distinct story pathways (trusting Mrs. Kitten VERSUS staying cautious of her
 dies and is forced to start the game over. The goal was to have at least 3-4 other "do or die" checkpoints.
 
 I also lifted all my background images from random Resident Evil games, so they definitely look out of place if you look
-too closely, but I cared more about having the lighting/mood of the backgrounds match with one another and also the sprites.
+too closely, but my goal was to have the lighting/moods of the backgrounds match with one another and also the sprites.
+The kitchen background was definitely my best find. 
 
 Thanks for reading (and maybe playing)!
 
