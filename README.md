@@ -19,7 +19,7 @@ I also lifted all my background images from random Resident Evil games, so they 
 too closely, but my goal was to have the lighting/moods of the backgrounds match with one another and also the sprites.
 The kitchen background was definitely my best find. 
 
-Thanks for reading (and maybe playing)!
+Thanks for reading (and maybe playing) !
 
 Kristina Petanaj
 CIS 1051 - Spring 2024 - Section 2
