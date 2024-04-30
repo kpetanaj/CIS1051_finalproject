@@ -7,9 +7,9 @@ complete disarray. The place reeks of decay, and yet Mrs. Kitten dons a clean dr
 not seem even the least bit fazed at the state of her home. You, the player, are tasked with
 surviving the night in Mrs. Kitten's home by choosing the safest options that I, the coder, present you.
 
-DEMO VIDEO LINK: https://youtu.be/XzpPuooyn48
+# DEMO VIDEO LINK: https://youtu.be/XzpPuooyn48
 
-NOTES:
+# NOTES:
 I had a lot of fun storyboarding this project. Unfortunately I was not able to code much (as it took me quite a bit
 to familiarize myself with RenPy) and the game ended up rather short because of it, but I'm glad I was able to implement
 two distinct story pathways (trusting Mrs. Kitten VERSUS staying cautious of her) as well as one option where the player
